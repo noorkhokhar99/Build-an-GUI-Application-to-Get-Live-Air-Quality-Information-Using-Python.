@@ -3,7 +3,7 @@
 
 We are living in a modernization and industrialization era. Our life becomes more and more convenient. But the problem is Air Pollution arise with time. This Pollution makes us unhealthy, Air is a Lifeline for our life.
 
-In this article, we are going to write python scripts to get live air quality information and bind it with GUI Application.
+In this video, we are going to write python scripts to get live air quality information and bind it with GUI Application.
 
 # Modules Needed
 
