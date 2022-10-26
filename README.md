@@ -25,3 +25,8 @@ Scrape the data with the help of requests and Beautiful Soup module.
 Convert that data into HTML code.
 
 Find the required details and filter them.
+
+
+# Analyze the Air Quality with the given data:
+
+<img src="https://github.com/noorkhokhar99/Build-an-GUI-Application-to-Get-Live-Air-Quality-Information-Using-Python./blob/main/Screenshot214.png">
