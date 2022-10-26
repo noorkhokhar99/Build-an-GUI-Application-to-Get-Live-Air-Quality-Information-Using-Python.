@@ -16,3 +16,12 @@ requests: This allows you to send HTTP/1.1 requests very easily. To install this
 pip install requests 
 
 # Approach:
+
+
+Extract data form given URL. Copy the URL, after selecting the desired location.
+
+Scrape the data with the help of requests and Beautiful Soup module.
+
+Convert that data into HTML code.
+
+Find the required details and filter them.
